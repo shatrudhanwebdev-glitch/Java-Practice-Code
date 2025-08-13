@@ -4,6 +4,12 @@ public class Ex1 {
 
     // shatrudhan.web.developer
 
+    /**
+     * A simple Java program that demonstrates the use of BufferedReader
+     * to take integer inputs from the user and perform basic arithmetic operations.
+     *
+     */
+
     public static void main(String[] args) throws IOException {
 
         // Create a BufferedReader object for reading input from console
