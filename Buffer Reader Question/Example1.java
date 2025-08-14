@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Ex1 {
+public class Example1 {
 
     // shatrudhan.web.developer
 

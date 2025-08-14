@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Ex2 {
+public class Ex1 {
 
     // shatrudhan.web.developer
 
@@ -8,7 +8,7 @@ public class Ex2 {
 
     public static void main(String[] args) {
 
-        // Creat a scanner objectfor reading input from consol.
+        // Create a scanner object for reading input from console.
         Scanner sc = new Scanner(System.in);
 
         // Scanner object creat
