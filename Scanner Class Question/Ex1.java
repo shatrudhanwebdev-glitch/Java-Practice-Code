@@ -23,5 +23,7 @@ public class Ex1 {
 
         // Output print karna
         System.out.println("Reverse name = " + reverse);
+
+        sc.close();
     }
 }

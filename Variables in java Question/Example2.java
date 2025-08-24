@@ -24,5 +24,6 @@ public class Example2 {
         System.out.println("Area of circle = " + Area);
         System.out.println("Value of circumference = " + Circumference);
 
+        sc.close();
     }
 }

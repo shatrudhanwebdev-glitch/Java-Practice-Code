@@ -24,5 +24,7 @@ public class Example4 {
         } else {
             System.out.println("False");
         }
+        
+        sc.close();
     }
 }
